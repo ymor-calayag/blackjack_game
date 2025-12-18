@@ -1,3 +1,5 @@
+# IMPORTANT: still needs work, there are game breaking issues
+
 import random
 import blackjack_art
 
